@@ -1,0 +1,78 @@
+{
+    "registry_version": "1.0",
+    "updated_at": "2026-05-30",
+    "modules": [
+        {
+            "name": "BEACON",
+            "alias": "announcements",
+            "system_code": "BEACON",
+            "full_name": "Broadcast & Emergency Announcement Control & Notification",
+            "description": "Post news and announcements to your group website. Supports pinned posts, draft/published workflow, and category filtering.",
+            "version": "1.0.0",
+            "requires_core": ">=1.0.0",
+            "author": "RAYNET Liverpool",
+            "author_uri": "https://raynet-liverpool.net",
+            "tags": ["news", "announcements", "content"],
+            "download_url": "https://github.com/raynet-uk/raynet-cms-modules/releases/download/beacon-1.0.0/beacon-1.0.0.zip",
+            "docs_url": "https://github.com/raynet-uk/raynet-cms-modules/tree/main/beacon",
+            "changelog": {
+                "1.0.0": "Initial release."
+            },
+            "screenshot": "https://raw.githubusercontent.com/raynet-uk/raynet-cms-modules/main/beacon/screenshot.png"
+        },
+        {
+            "name": "VAULT",
+            "alias": "drive",
+            "system_code": "VAULT",
+            "full_name": "Verified Archive & Unified Library Tool",
+            "description": "File library for sharing documents with members, committee, and admins. Supports email-to-upload via tagged addresses and category organisation.",
+            "version": "1.0.0",
+            "requires_core": ">=1.0.0",
+            "author": "RAYNET Liverpool",
+            "author_uri": "https://raynet-liverpool.net",
+            "tags": ["files", "documents", "library"],
+            "download_url": "https://github.com/raynet-uk/raynet-cms-modules/releases/download/vault-1.0.0/vault-1.0.0.zip",
+            "docs_url": "https://github.com/raynet-uk/raynet-cms-modules/tree/main/vault",
+            "changelog": {
+                "1.0.0": "Initial release."
+            },
+            "screenshot": "https://raw.githubusercontent.com/raynet-uk/raynet-cms-modules/main/vault/screenshot.png"
+        },
+        {
+            "name": "ECHO",
+            "alias": "netlog",
+            "system_code": "ECHO",
+            "full_name": "Electronic Communications History & Operations",
+            "description": "Full radio net logging system with station management, net controller tools, frequency tracking, and exportable logs.",
+            "version": "1.0.0",
+            "requires_core": ">=1.0.0",
+            "author": "RAYNET Liverpool",
+            "author_uri": "https://raynet-liverpool.net",
+            "tags": ["net", "logging", "radio", "communications"],
+            "download_url": "https://github.com/raynet-uk/raynet-cms-modules/releases/download/echo-1.0.0/echo-1.0.0.zip",
+            "docs_url": "https://github.com/raynet-uk/raynet-cms-modules/tree/main/echo",
+            "changelog": {
+                "1.0.0": "Initial release."
+            },
+            "screenshot": "https://raw.githubusercontent.com/raynet-uk/raynet-cms-modules/main/echo/screenshot.png"
+        },
+        {
+            "name": "DEBRIEF",
+            "alias": "afteractionreport",
+            "system_code": "DEBRIEF",
+            "full_name": "Debrief, Review, Intelligence & Evaluation for Future Operational Performance",
+            "description": "Capture operational lessons, evaluate performance, and build institutional knowledge with structured after action reviews.",
+            "version": "1.0.0",
+            "requires_core": ">=1.0.0",
+            "author": "RAYNET Liverpool",
+            "author_uri": "https://raynet-liverpool.net",
+            "tags": ["aar", "lessons", "review", "debrief"],
+            "download_url": "https://github.com/raynet-uk/raynet-cms-modules/releases/download/debrief-1.0.0/debrief-1.0.0.zip",
+            "docs_url": "https://github.com/raynet-uk/raynet-cms-modules/tree/main/debrief",
+            "changelog": {
+                "1.0.0": "Initial release."
+            },
+            "screenshot": "https://raw.githubusercontent.com/raynet-uk/raynet-cms-modules/main/debrief/screenshot.png"
+        }
+    ]
+}
